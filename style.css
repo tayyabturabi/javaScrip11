@@ -1,0 +1,26 @@
+#main-container{
+    background-color: rgb(193, 198, 130);
+   
+}
+#signal-btns{
+text-align: center;
+margin: 0px auto;
+width:40%;
+}
+#road{
+    position: relative;
+}
+
+
+#car{
+    position: absolute;
+    width:25%;
+    height: 25%;
+    margin-top: 350px;
+}
+.btn-size{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
